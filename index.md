@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+Routers vs. Switches? Switches vs. Routers? Which one to choose and why?
+ A business network allows all members of your company to connect with each other, customers, business partners, important applications and the Internet. The best thing about a network is that both applications and information can be shared and that any member of your team can easily access them. Consider the following:
 
-You can use the [editor on GitHub](https://github.com/field-engineer/router/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+How do you connect to the Internet? Via network.
+Where is your company's software stored? In the net.
+How do several members of your team share an important presentation? Through the network.
+What allows you to get important messages to your employees and business partners? Network.
+What is Routing and Switching?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Enterprise router](https://www.fieldengineer.com/blogs/top-seven-enterprise-router-vendors-consider-2018/) is a basic product for any business/enterprise.The operation of a network consists in connecting computers and peripherals through two parts of the equipment: switches and routers. These two elements allow devices connected to the network to communicate with each other and with other networks.
 
-### Markdown
+Although they are very similar, switches and routers perform very different functions in the network:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The switches are used to connect several devices through the same network within a building or office. For example, a switch can connect its computers, printers and servers, creating a network of shared resources. The switch would act as a controller, allowing different devices to share information and communicate with each other. By sharing information and allocating resources, switches allow you to save money and increase productivity. There are two basic types of switches: managed and unmanaged.
 
-```markdown
-Syntax highlighted code block
+Unmanaged switches: They work automatically and do not allow changes. Computers in home networks often use unmanaged switches.
+Managed switches: Allow programming. This provides great flexibility because the switch can be monitored and adjusted locally or remotely to give you control over the movement of traffic on the network and who has access to it.
 
-# Header 1
-## Header 2
-### Header 3
+Routers are used to connect several networks. For example, you can use a router to connect your networked computers to the Internet and, thus, share an Internet connection between multiple users. The router will act as a distributor, selecting the best route to move the information so that it receives it quickly. The routers analyze the data that is going to be sent through a network, pack it in a different way and send it to another network or through a different type of network. They connect their business with the outside world, they protect information from security threats, and they can even decide which computers have priority over others. Depending on the business and its network connection plans, you can choose between routers that include different capacities. They can include functions such as:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/field-engineer/router/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Firewall: Specialized software that examines incoming data and protects your business network from possible attacks.
+Virtual private network (VPN): Method that allows remote employees to access your network securely.
+IP telephone network: Combines the telephone network and the equipment network of your company, using voice and conference technology, to simplify and unify communications.
